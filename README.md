@@ -73,6 +73,7 @@ python 012_xml_archive_wordpress.py
 """
 ```
 
+**Git commands**
 ```bash
 # get to the dir
 cd /Users/brunoflaven/Documents/03_git/
@@ -87,7 +88,11 @@ cd /Users/brunoflaven/Documents/03_git/xml_archive_wordpress
 git status
 git add .
 git commit -am "add files"
+git commit -am "update files"
 git push
+
+
+
 ```
 
 
